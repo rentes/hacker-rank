@@ -8,5 +8,14 @@
 *.war
 *.ear
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# virtual machine crash logs
 hs_err_pid*
+
+# IntelliJ specific directory
+.idea/
+
+# Gradle properties and artifacts
+.gradle
+
+# build output directory
+build
